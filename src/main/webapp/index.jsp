@@ -10,7 +10,7 @@
 <h2>Hello World!</h2>
 <form action="/login/">
     <input type="text" id="email" name="email" required
-       minlength="4" maxlength="8" size="10" placeholder="请输入邮箱">
+       minlength="4" maxlength="50" size="24" placeholder="请输入邮箱">
     <br/>
     <input type="password" id="pwd" name="pwd" required
     minlength="6" maxlength="24" size="24" placeholder="请输入密码前注意周边环境安全">
